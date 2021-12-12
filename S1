@@ -1,0 +1,6 @@
+config:
+{
+  replicas: 5
+  memory: 8
+  TTL: 30
+}
